@@ -1,17 +1,17 @@
-# Python - Podstawy
+# Python Fundamentals
 
-Systematyczna nauka podstaw Pythona: teoria + zadania, tempo ~1-2h/tydzień.
+Systematic Python fundamentals practice: short theory + exercises, pace ~1-2h/week.
 
-## Postęp
+## Progress
 
-- [x] 01. Zmienne i typy danych
-- [ ] 02. Struktury kontrolne
-- [ ] 03. Listy, słowniki, tuple, sety
-- [ ] 04. Funkcje
-- [ ] 05. Obsługa błędów
-- [ ] 06. Programowanie obiektowe
-- [ ] 07. Moduły, generatory, dekoratory
+- [x] 01. Variables and data types
+- [ ] 02. Control flow
+- [ ] 03. Lists, dictionaries, tuples, sets
+- [ ] 04. Functions
+- [ ] 05. Error handling
+- [ ] 06. Object-oriented programming
+- [ ] 07. Modules, generators, decorators
 
-## Struktura
+## Structure
 
-Każdy folder = jeden temat. `zadania.py` zawiera rozwiązania, `notatki.md` - krótkie podsumowanie kluczowych pojęć.
+Each folder = one topic. `exercises.py` contains solutions, `notes.md` — short summary of key concepts.
