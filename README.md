@@ -5,7 +5,7 @@ Systematic Python fundamentals practice: short theory + exercises, pace ~1-2h/we
 ## Progress
 
 - [x] 01. Variables and data types
-- [ ] 02. Control flow
+- [x] 02. Control flow
 - [ ] 03. Lists, dictionaries, tuples, sets
 - [ ] 04. Functions
 - [ ] 05. Error handling
@@ -14,4 +14,4 @@ Systematic Python fundamentals practice: short theory + exercises, pace ~1-2h/we
 
 ## Structure
 
-Each folder = one topic. `exercises.py` contains solutions, `notes.md` — short summary of key concepts.
+Each folder = one topic. `exercises.py` contains solutions.
