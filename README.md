@@ -6,9 +6,9 @@ Systematic Python fundamentals practice: short theory + exercises, pace ~1-2h/we
 
 - [x] 01. Variables and data types
 - [x] 02. Control flow
-- [ ] 03. Lists, dictionaries, tuples, sets
-- [ ] 04. Functions
-- [ ] 05. Error handling
+- [x] 03. Lists, dictionaries, tuples, sets
+- [x] 04. Functions
+- [x] 05. Error handling
 - [ ] 06. Object-oriented programming
 - [ ] 07. Modules, generators, decorators
 
