@@ -9,8 +9,10 @@ Systematic Python fundamentals practice: short theory + exercises, pace ~1-2h/we
 - [x] 03. Lists, dictionaries, tuples, sets
 - [x] 04. Functions
 - [x] 05. Error handling
-- [ ] 06. Object-oriented programming
-- [ ] 07. Modules, generators, decorators
+- [x] 06. Object-oriented programming
+- [x] 07. Modules, files 
+- [ ] 08. Iterators, generators, 
+- [ ] 09. Decorators
 
 ## Structure
 
